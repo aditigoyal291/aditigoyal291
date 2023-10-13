@@ -1,6 +1,6 @@
 ## Aditi Goyal
 
-![Streak status](https://streak-stats.demolab.com?user=aditigoyal291&theme=radical))
+![Streak status](https://streak-stats.demolab.com?user=aditigoyal291&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal291&show=reviews&theme=radical)
 
