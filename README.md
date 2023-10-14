@@ -10,3 +10,5 @@
 ![](https://komarev.com/ghpvc/?username=aditigoyal291&color=green)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=aditigoyal291&cc=22272e&tc=37BCF6&ic=fff&bc=0000">  
+
+<img src="https://github-stats-alpha.vercel.app/api?username=Anushkaghei&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
