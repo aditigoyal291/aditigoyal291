@@ -11,4 +11,6 @@
 
 <img src="https://github-stats-alpha.vercel.app/api?username=aditigoyal291&cc=22272e&tc=37BCF6&ic=fff&bc=0000">  
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditigoyal291&theme=dracula) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditigoyal291&theme=dracula)
 
