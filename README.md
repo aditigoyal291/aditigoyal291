@@ -9,5 +9,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aditigoyal291&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal291)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-stats-alpha.vercel.app/api?username=aditigoyal291&cc=22272e&tc=37BCF6&ic=fff&bc=0000">  
