@@ -14,3 +14,5 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditigoyal291&theme=dracula) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditigoyal291&theme=dracula)
 
+
+  <img src="https://profile-counter.glitch.me/aditigoyal291/count.svg" /></p>
