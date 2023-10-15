@@ -7,7 +7,6 @@
 ![Wakatime](https://wakatime.com/share/@018b15bb-6d26-418d-b6be-80b8ee248fad/145879ee-3224-4869-8b0f-5938abdc6e65.svg)
 
 
-![](https://komarev.com/ghpvc/?username=aditigoyal291&color=green)
 
 <img src="https://github-stats-alpha.vercel.app/api?username=aditigoyal291&cc=22272e&tc=37BCF6&ic=fff&bc=0000">  
 
